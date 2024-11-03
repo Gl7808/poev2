@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="056dc52e-3692-4917-bda7-20960bffcdbb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="056dc52e-3692-4917-bda7-20960bffcdbb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +17,13 @@
         <option value="HTML File" />
         <option value="SCSS File" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -82,7 +87,7 @@
       <workItem from="1721890583051" duration="4133000" />
       <workItem from="1726000773504" duration="62000" />
       <workItem from="1728822746667" duration="17000" />
-      <workItem from="1730656688841" duration="102000" />
+      <workItem from="1730656688841" duration="421000" />
     </task>
     <servers />
   </component>
