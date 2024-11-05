@@ -264,4 +264,55 @@ svg * {
   text-transform: uppercase;
 }
 
+.r {
+  color: var(--color-accent-red);
+}
+
+.g {
+  color: var(--color-succsess);
+}
+
+.b {
+  color: var(--color-accent-blue);
+}
+
+.gem__list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.gem__list-item {
+  padding: 3px;
+  border: 1px solid var(--color-dark-700);
+}
+
+.items__start-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  border-radius: var(--border-radius-medium);
+}
+.items__start-item {
+  padding: 10px;
+  display: grid;
+  align-items: center;
+  background-color: var(--color-dark-700);
+}
+.items__start-item-link {
+  height: 40px;
+  width: 40px;
+  margin-top: 10px;
+  border: 2px solid var(--color-succsess);
+  background-color: var(--color-succsess);
+  border-radius: var(--border-radius-medium);
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.items__start-item-link:hover {
+  color: var(--color-light-900);
+  background-color: var(--color-succsess);
+}
+
 /*# sourceMappingURL=style.css.map */

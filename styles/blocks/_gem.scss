@@ -1,0 +1,13 @@
+.gem{
+
+  &__list{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    &-item{
+      padding: 3px;
+      border: 1px solid var(--color-dark-700)
+    }
+  }
+
+}
